@@ -1,4 +1,4 @@
-
+To jest projekt naukowy nie służy do korzystania w nielegalnych celach!!!
 Instrukcja zainstalowania:
 
 Dla systemu IOS:
